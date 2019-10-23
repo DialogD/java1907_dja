@@ -1,3 +1,4 @@
 5,10,20,40,60
 dev add newthing
 master add otherthing
+dev add otherthing
